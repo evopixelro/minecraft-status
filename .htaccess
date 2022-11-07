@@ -1,7 +1,7 @@
 RewriteEngine on
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ /index.php?path=$1 [NC,L,QSA]
+RewriteRule ^(.*)$ index.php/$1 [L]
 RewriteBase /
 RewriteCond %{HTTP_USER_AGENT} almaden [OR]
 RewriteCond %{HTTP_USER_AGENT} ^Anarchie [OR]
