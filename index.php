@@ -10,7 +10,7 @@ $services[] = array("port" => "80",       "service" => "api.mojang.com",        
 $services[] = array("port" => "80",       "service" => "minecraft.net",                  "ip" => "minecraft.net");
 $services[] = array("port" => "80",       "service" => "account.mojang.com",                  "ip" => "account.mojang.com");
 
-$data .= "[";
+$data = "[";
 foreach ($services  as $service) {
 	if($service['ip']==""){
 	   $service['ip'] = "localhost";
