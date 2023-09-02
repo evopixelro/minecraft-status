@@ -1,1 +1,1 @@
-# mojang-status
+# minecraft-status
