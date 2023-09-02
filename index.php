@@ -7,7 +7,7 @@ $services[] = array("port" => "80",       "service" => "session.minecraft.net", 
 $services[] = array("port" => "80",       "service" => "user.auth.xboxlive.com",                  "ip" => "user.auth.xboxlive.com");
 $services[] = array("port" => "80",       "service" => "login.microsoftonline.com",                  "ip" => "login.microsoftonline.com");
 $services[] = array("port" => "80",       "service" => "textures.minecraft.net",                  "ip" => "textures.minecraft.net");
-$services[] = array("port" => "80",       "service" => "api.minecraftservices.com",                  "ip" => "api.mojang.com");
+$services[] = array("port" => "80",       "service" => "api.minecraftservices.com",                  "ip" => "api.minecraftservices.com");
 $services[] = array("port" => "80",       "service" => "minecraft.net",                  "ip" => "minecraft.net");
 $services[] = array("port" => "80",       "service" => "account.mojang.com",                  "ip" => "account.mojang.com");
 
