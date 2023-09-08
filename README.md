@@ -1,9 +1,7 @@
 # Minecraft Status
-
 <b>Minecraft Status</b> is a PHP script designed to monitor the availability of critical Minecraft-related web services. This versatile tool allows you to effortlessly track the status of key online resources, such as Microsoft login servers and Minecraft APIs, ensuring you stay informed about their operational status in real-time.
 
 # Features:
-
 <b>Service Monitoring:</b>
 <li>Keep tabs on the accessibility of crucial Minecraft services to ensure uninterrupted gameplay and user experiences.</li>
 <br>
