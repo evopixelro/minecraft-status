@@ -3,16 +3,16 @@
 
 # Features:
 <b>Service Monitoring:</b>
-<li>Keep tabs on the accessibility of crucial Minecraft services to ensure uninterrupted gameplay and user experiences.</li>
-<br>
+<p>Keep tabs on the accessibility of crucial Minecraft services to ensure uninterrupted gameplay and user experiences.</p>
+
 <b>Real-Time Updates:</b>
-<li>Receive instant notifications and updates about the status of monitored services.</li>
-<br>
+<p>Receive instant notifications and updates about the status of monitored services.</p>
+
 <b>Customization:</b>
-<li>Easily configure the script to check specific services of interest.</li>
-<br>
+<p>Easily configure the script to check specific services of interest.</p>
+
 <b>Open Source:</b>
-<li>Collaborate, enhance, and tailor the script to your unique needs, thanks to its open-source nature.</li>
-<br>
+<p>Collaborate, enhance, and tailor the script to your unique needs, thanks to its open-source nature.</p>
+
 <b>Community-Driven:</b>
-<li>Join a community of Minecraft enthusiasts who share and contribute to the project.</li>
+<p>Join a community of Minecraft enthusiasts who share and contribute to the project.</p>
